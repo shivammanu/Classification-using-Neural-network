@@ -28,10 +28,10 @@ The dataset “housing.csv” has information on the housing values in suburbs o
 
 
 ## Steps
-a) Read “housing.csv” file into R
-b) install.packages("drat", repos="https://cran.rstudio.com")
+1. Read “housing.csv” file into R
+2. install.packages("drat", repos="https://cran.rstudio.com")
 #drat:::addRepo("dmlc")
 #install.packages("mxnet")
-c) Study structure, summary etc.
-d) Apply type conversion to attributes if necessary.
-e) If attributes are categorical, convert them into dummies.
+3. Study structure, summary etc.
+4. Apply type conversion to attributes if necessary.
+5. If attributes are categorical, convert them into dummies.
