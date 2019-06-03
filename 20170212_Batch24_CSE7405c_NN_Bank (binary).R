@@ -1,5 +1,4 @@
 rm(list = ls())
-#setwd("D:/AMITS_LABS/BATCH 24/Day16_NN/20170212_Batch 24_CSE 7405c_ANN_LabActivity")
 
 #install.packages("drat", repos="https://cran.rstudio.com") 
 #drat:::addRepo("dmlc") 
