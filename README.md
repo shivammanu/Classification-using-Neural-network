@@ -1,10 +1,6 @@
 # Neural_network
 
 ## Training Neural Networks on multiple data sets for
-1. Classification problem (Demo)
-2. Regression problem
-3. Digit recognition problem
-
 
 A marketing department of a bank runs various marketing campaigns for cross-selling products, improving customer retention and better customer services. Let us take a marketing data sample in which the bank is interested in selling a term deposit product to its existing customers.
 Contacting all customers is costly and does not create good customer experience. So, the bank wants to build a predictive model which will identify customers who are more likely to respond to the marketing campaign.
